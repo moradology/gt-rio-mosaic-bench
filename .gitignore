@@ -233,3 +233,7 @@ cython_debug/
 
 # test images
 *.png
+
+# result files
+rio_times.txt
+rs_times.txt
